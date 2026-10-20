@@ -1,6 +1,6 @@
 ### Hi, I'm Mohamed Amine Abouda 
 
-Computer Science Student | DevOps & DevSecOps | Cybersecurity
+Computer Science Student | Cybersecurity | DevOps & DevSecOps 
 
 I'm a computer science student passionate about building reliable systems, automating infrastructure, and exploring cybersecurity.
 
